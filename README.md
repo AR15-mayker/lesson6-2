@@ -83,6 +83,8 @@
 4) 110000001011110 - Ошибка (не валидно, коды до 0)
 Из сообщений без ошибок: 2.
 
+![image](https://github.com/user-attachments/assets/f5a4f5e6-0f65-48b7-82b4-a81d47acdc94)
+
 
   
 
